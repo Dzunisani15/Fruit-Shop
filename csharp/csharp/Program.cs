@@ -10,12 +10,18 @@ namespace csharp {
 
         //string first;
         public bool fruitIsThere;
-        public static string questions() {
+        public static List<string> questions() {
 
             Console.WriteLine("How can I help you today");
             string first = Console.ReadLine();
+            fruits(first);
 
-            return null;
+            List<string> listOfFruitAsked = new List<string>();
+
+            listOfFruitAsked.Append(first);
+
+
+            return listOfFruitAsked;
         }
 
 
@@ -38,7 +44,7 @@ namespace csharp {
             }
 
             
-            return fr;
+            return true;
         }
 
         public static void Main(string[] args){
