@@ -1,0 +1,14 @@
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\bin\Debug\net8.0\Fruit_Shop.exe
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\bin\Debug\net8.0\Fruit_Shop.deps.json
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\bin\Debug\net8.0\Fruit_Shop.runtimeconfig.json
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\bin\Debug\net8.0\Fruit_Shop.dll
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\bin\Debug\net8.0\Fruit_Shop.pdb
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\Fruit_Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\Fruit_Shop.AssemblyInfoInputs.cache
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\Fruit_Shop.AssemblyInfo.cs
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\Fruit_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\Fruit_Shop.dll
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\refint\Fruit_Shop.dll
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\Fruit_Shop.pdb
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\Fruit_Shop.genruntimeconfig.cache
+C:\Users\Train\source\repos\Fruit_Shop\Fruit_Shop\obj\Debug\net8.0\ref\Fruit_Shop.dll
